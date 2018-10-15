@@ -1,6 +1,6 @@
 ## 진행 중인 대회
 
-You can use the [editor on GitHub](https://github.com/wkvb/vb/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[제99회 전국체육대회](https://national.sports.or.kr/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
