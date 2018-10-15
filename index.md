@@ -1,8 +1,8 @@
 ## 진행 중인 대회
 
-[제99회 전국체육대회](https://national.sports.or.kr/)
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[제99회 전국체육대회](https://national.sports.or.kr/) (2018.10.13 - 2018.10.17)
+- 여자 고등부
+- 여자 일반부
 
 ### Markdown
 
